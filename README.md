@@ -24,3 +24,8 @@ This project uses the **Blackbox Coding Agent API** to generate intelligent resp
 
 ## License
 MIT
+## Certificate
+🏅 [Raise Your Hack 2025 – Lablab.ai Certificate](https://lablab.ai/u/@Sadaff/cmcvza72n009c8m0s91ummzh5)
+
+## Live Submission
+🔗 [Project on Lablab.ai](https://lablab.ai/event/raise-your-hack/illogical-logic-blackbox-track/helpme-blackbox-api)
